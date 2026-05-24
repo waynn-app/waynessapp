@@ -1,0 +1,6 @@
+{
+  "name": "Wayness",
+  "description": "WAYNESS - Plataforma integral de gestión, comunidad y recompensas por entrenamiento físico medido por ritmo cardíaco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

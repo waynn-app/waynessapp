@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Left weight plates -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,40 h4 v20 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,30 h6 v40 h-6 z" />
+
+    <!-- Connecting barbell bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,46 h40 v8 h-40 z" />
+
+    <!-- Right weight plates -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,30 h6 v40 h-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,40 h4 v20 h-4 z" />
+
+    <!-- Beautiful centering stylized W curves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36 h6 v18 c0,6 4,10 10,10 c6,0 10,-4 10,-10 v-18 h6 v18 c0,10 -8,16 -16,16 c-8,0 -16,-6 -16,-16 z" />
+</vector>
